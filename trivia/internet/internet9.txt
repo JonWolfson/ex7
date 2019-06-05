@@ -1,0 +1,3 @@
+Q: What does PHP stand for?
+A: Pre-hypertext processor
+ 
